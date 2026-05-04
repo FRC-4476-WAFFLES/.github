@@ -49,8 +49,8 @@ Team 4476 consistently ranks as a top-performing team in the Ontario District, r
 ![GitHub Org's stars](https://img.shields.io/github/stars/FRC-4476-WAFFLES?style=social&color=gold)
 ![GitHub forks](https://img.shields.io/github/forks/FRC-4476-WAFFLES/Robot2024?style=social&color=gold)
 
-<a href="https://github.com/FRC-4476-WAFFLES/Robot2024/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FRC-4476-WAFFLES/Robot2024" />
+<a href="https://github.com/FRC-4476-WAFFLES/Robot2026/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FRC-4476-WAFFLES/Robot2026" />
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FRC-4476-WAFFLES&color=yellow&style=flat-square&label=Profile+Views)
